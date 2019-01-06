@@ -7,15 +7,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32497238-0f00-4985-ba3e-edc7d81a3974" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cartmgr/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordermgr/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storemgr/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartmgr/src/main/webapp/cart.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/architectureweb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/architectureweb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureweb/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/architectureweb/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureweb/target/architectureweb.war" beforeDir="false" afterPath="$PROJECT_DIR$/architectureweb/target/architectureweb.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureweb/target/architectureweb/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureweb/target/architectureweb/META-INF/maven/com.shushiyi/customermgr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/architectureweb/target/architectureweb/META-INF/maven/com.shushiyi/customermgr/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureweb/target/architectureweb/WEB-INF/lib/common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/architectureweb/target/architectureweb/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureweb/target/architectureweb/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/architectureweb/target/architectureweb/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureweb/target/war/work/com.shushiyi/customermgr/META-INF/maven/com.shushiyi/customermgr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/architectureweb/target/war/work/com.shushiyi/customermgr/META-INF/maven/com.shushiyi/customermgr/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureweb/target/war/work/com.shushiyi/customermgr/WEB-INF/lib/common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/architectureweb/target/war/work/com.shushiyi/customermgr/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartmgr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cartmgr/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/surefire-reports/TEST-com.shushiyi.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/surefire-reports/com.shushiyi.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customermgr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customermgr/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customermgr/target/customermgr.war" beforeDir="false" afterPath="$PROJECT_DIR$/customermgr/target/customermgr.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customermgr/target/customermgr/WEB-INF/lib/common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/customermgr/target/customermgr/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customermgr/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customermgr/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customermgr/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customermgr/target/tomcat/logs/access_log.2019-01-05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customermgr/target/tomcat/work/Tomcat/localhost/customermgr/org/apache/jsp/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customermgr/target/tomcat/work/Tomcat/localhost/customermgr/org/apache/jsp/index_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodsmgr/target/goodsmgr-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/goodsmgr/target/goodsmgr-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodsmgr/target/surefire-reports/TEST-com.shushiyi.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/goodsmgr/target/surefire-reports/TEST-com.shushiyi.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodsmgr/target/surefire-reports/com.shushiyi.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/goodsmgr/target/surefire-reports/com.shushiyi.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodsmgrweb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/goodsmgrweb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodsmgrweb/target/goodsmgrweb.war" beforeDir="false" afterPath="$PROJECT_DIR$/goodsmgrweb/target/goodsmgrweb.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordermgr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ordermgr/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storemgr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/storemgr/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,41 +63,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/architectureweb/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+            <state relative-caret-position="149">
+              <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="137" selection-end-column="25" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/customermgr/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="73">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cartmgr/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/goodsmgrweb/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ordermgr/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/architecture.iml">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="754">
+              <caret line="235" column="23" selection-start-line="235" selection-start-column="23" selection-end-line="235" selection-end-column="23" />
+            </state>
+          </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/storemgr/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/architectureweb/architectureweb.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cartmgr/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-925">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
@@ -94,7 +177,6 @@
         <option value="$PROJECT_DIR$/goodsmgr/pom.xml" />
         <option value="$PROJECT_DIR$/common/pom.xml" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/shushiyi/Base1.java" />
-        <option value="$PROJECT_DIR$/goodsmgrweb/pom.xml" />
         <option value="$PROJECT_DIR$/architectureweb/src/main/java/com/shushiyi/architecture/customer/Customer.java" />
         <option value="$PROJECT_DIR$/customermgr/src/main/java/customer/Customer.java" />
         <option value="$PROJECT_DIR$/customermgr/src/main/java/com/shushiyi/architecture/custromer/Customer.java" />
@@ -103,13 +185,15 @@
         <option value="$PROJECT_DIR$/customermgr/src/main/webapp/WEB-INF/customer/add.jsp" />
         <option value="$PROJECT_DIR$/customermgr/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/goodsmgr/src/main/java/com/shushiyi/App.java" />
-        <option value="$PROJECT_DIR$/customermgr/pom.xml" />
         <option value="$PROJECT_DIR$/cart/pom.xml" />
+        <option value="$PROJECT_DIR$/architectureweb/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/cartmgr/pom.xml" />
-        <option value="$PROJECT_DIR$/ordermgr/pom.xml" />
-        <option value="$PROJECT_DIR$/storemgr/pom.xml" />
         <option value="$PROJECT_DIR$/architectureweb/pom.xml" />
+        <option value="$PROJECT_DIR$/storemgr/pom.xml" />
+        <option value="$PROJECT_DIR$/ordermgr/pom.xml" />
+        <option value="$PROJECT_DIR$/goodsmgrweb/pom.xml" />
+        <option value="$PROJECT_DIR$/customermgr/pom.xml" />
+        <option value="$PROJECT_DIR$/cartmgr/pom.xml" />
       </list>
     </option>
   </component>
@@ -129,8 +213,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="527" />
-    <option name="y" value="61" />
+    <option name="x" value="731" />
+    <option name="y" value="83" />
     <option name="width" value="1321" />
     <option name="height" value="908" />
   </component>
@@ -153,7 +237,11 @@
             <path>
               <item name="architecture" type="b2602c69:ProjectViewProjectNode" />
               <item name="architecture" type="462c0819:PsiDirectoryNode" />
-              <item name="architectureweb" type="462c0819:PsiDirectoryNode" />
+              <item name="cartmgr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="architecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -166,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546756978114" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546758450513" />
     <property name="last_opened_file_path" value="E:/GIT/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -195,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.customermgr [tomcat7:run]">
+  <component name="RunManager" selected="Maven.architectureweb [tomcat7:run]">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shushiyi.App" />
       <module name="goodsmgr" />
@@ -217,7 +305,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="customermgr [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+    <configuration name="architectureweb [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -236,7 +324,7 @@
               <map />
             </option>
             <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$/customermgr" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/architectureweb" />
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
@@ -318,7 +406,7 @@
     <list>
       <item itemvalue="Application.App" />
       <item itemvalue="JUnit.All in architecture" />
-      <item itemvalue="Maven.customermgr [tomcat7:run]" />
+      <item itemvalue="Maven.architectureweb [tomcat7:run]" />
       <item itemvalue="Tomcat Server.Tomcat 7.0.92" />
     </list>
     <recent_temporary>
@@ -349,7 +437,7 @@
       <workItem from="1546698909667" duration="423000" />
       <workItem from="1546699438792" duration="30000" />
       <workItem from="1546751281377" duration="1342000" />
-      <workItem from="1546754362348" duration="1797000" />
+      <workItem from="1546754362348" duration="3268000" />
     </task>
     <task id="LOCAL-00001" summary="asd">
       <created>1546754553941</created>
@@ -365,14 +453,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546755045743</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="asd">
+      <created>1546757003613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546757003613</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10757000" />
+    <option name="totallyTimeSpent" value="12228000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="527" y="61" width="1321" height="908" extended-state="0" />
+    <frame x="731" y="83" width="1321" height="908" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21411578" />
@@ -383,9 +478,10 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298731" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32945737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,7 +489,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32945737" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32945737" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.36821705" />
@@ -418,13 +514,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="asd" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/shushiyi/AppTest.java" />
     <entry file="file://$PROJECT_DIR$/goodsmgr/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -450,13 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customermgr/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -488,22 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goodsmgrweb/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customermgr/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="24" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="file://E:/gitmaster/myprojct/src/main/java/com/shushiyi/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -533,30 +599,97 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/customermgr/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architectureweb/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartmgr/src/main/webapp/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architectureweb/architectureweb.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-925">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architectureweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="137" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="235" column="23" selection-start-line="235" selection-start-column="23" selection-end-line="235" selection-end-column="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storemgr/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordermgr/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodsmgrweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customermgr/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/cartmgr/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ordermgr/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storemgr/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architectureweb/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+        <state relative-caret-position="68">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
