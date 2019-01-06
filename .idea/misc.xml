@@ -3,7 +3,11 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/architectureweb" />
+    <file type="web" url="file://$PROJECT_DIR$/cart" />
+    <file type="web" url="file://$PROJECT_DIR$/cartmgr" />
     <file type="web" url="file://$PROJECT_DIR$/customermgr" />
+    <file type="web" url="file://$PROJECT_DIR$/ordermgr" />
+    <file type="web" url="file://$PROJECT_DIR$/storemgr" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -14,6 +18,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/architectureweb/pom.xml" />
+        <option value="$PROJECT_DIR$/cart/pom.xml" />
         <option value="$PROJECT_DIR$/goodsmgrweb/pom.xml" />
       </set>
     </option>

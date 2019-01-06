@@ -7,14 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="architectureweb" />
+        <module name="cartmgr" />
         <module name="common" />
         <module name="customermgr" />
         <module name="goodsmgr" />
         <module name="goodsmgrweb" />
+        <module name="ordermgr" />
+        <module name="storemgr" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="architectureweb" target="1.7" />
+      <module name="cart" target="1.7" />
       <module name="goodsmgrweb" target="1.7" />
     </bytecodeTargetLevel>
   </component>
